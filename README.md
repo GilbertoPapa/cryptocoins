@@ -320,7 +320,3 @@ registerServiceWorker();
   - delete files -> src/index.css and src/App.css
   - change icon -> public/favicon.ico
 
-# Heroku
-
-Fire up a browser and go to:
-[https://landingpage-cryptocoins.herokuapp.com/](https://landingpage-cryptocoins.herokuapp.com/)
